@@ -7,7 +7,6 @@ This project is a deep learning-based brain tumor detection model that classifie
 ```
 DSAI-Brain-Tumor-Detection/
 │── imagesForTesting/  # Folder containing MRI images for testing
-│── myenv/              # Virtual environment
 │── results/          # Folder containing result images
 │── .gitignore         # Git ignore file
 │── DenseNet.ipynb     # Model training using DenseNet
