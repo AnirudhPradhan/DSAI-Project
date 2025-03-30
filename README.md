@@ -50,8 +50,8 @@ python main.py --image path/to/image.jpg
 ## 🏆 Results
 The model was trained on a dataset with 4 classes and achieved the following results:
 
-- **Final Training Accuracy:** 79.49%
-- **Final Training Loss:** 0.7109
+- **Final Training Accuracy:** 93.75%
+- **Final Training Loss:** 0.1769
 - **Final Validation Accuracy:** 81.07%
 - **Final Validation Loss:** 0.6776
 
@@ -59,10 +59,14 @@ These results indicate that the model performs well in detecting brain tumors fr
 
 ### 📊 Performance Visualizations
 #### 1️⃣ Confusion Matrix
-![Confusion Matrix](results/Confusion%20Matrix.png)
+<p align="center">
+  <img src="results/Confusion%20Matrix.png" alt="Confusion Matrix"/>
+</p>
 
 #### 2️⃣ Accuracy and Loss Graphs
-![Epoch vs Accuracy](results/epoch%20vs%20accuracy.png)
+<p align="center">
+  <img src="results/epoch%20vs%20accuracy.png" alt="Epoch vs Accuracy"/>
+</p>
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
