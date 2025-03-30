@@ -6,16 +6,16 @@ This project is a deep learning-based brain tumor detection model that classifie
 ## 🏗 Project Structure
 ```
 DSAI-Brain-Tumor-Detection/
-│── myenv/                # Virtual environment
-│── .gitignore            # Git ignore file
-│── DenseNet.ipynb        # Model training using DenseNet
-│── Resnet.ipynb          # Model training using ResNet
-│── main.py               # Main script for running predictions
-│── my_model.h5           # Saved trained model
-│── predictions.ipynb     # Notebook for making predictions
-│── README.md             # Project documentation
-│── Te-*.jpg              # Sample MRI images
-│── results/              # Folder containing result images
+│── imagesForTesting/  # Folder containing MRI images for testing
+│── myenv/              # Virtual environment
+│── results/          # Folder containing result images
+│── .gitignore         # Git ignore file
+│── DenseNet.ipynb     # Model training using DenseNet
+│── main.py           # Main script for running predictions
+│── my_model.h5         # Saved trained model
+│── predictions.ipynb    # Notebook for making predictions
+│── README.md         # Project documentation
+│── Resnet.ipynb      # Model training using ResNet
 ```
 
 ## 🔧 Installation
